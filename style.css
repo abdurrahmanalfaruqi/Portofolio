@@ -411,13 +411,11 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 section {
   padding: 60px 0;
-  overflow: hidden;
 }
 
 .section-bg {
-  background-color: #f9f9fa;
+  background-color: #ffffff;
 }
-
 .section-title {
   text-align: center;
   padding: 30px 0;
@@ -1410,3 +1408,45 @@ section {
 .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #fff;
 }
+
+ .member {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 30px 20px;
+  background: #fff;
+}
+ .member img {
+  max-width: 100%;
+  margin: 0 0 30px 0;
+}
+ .member h4 {
+  font-weight: 700;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+ .member span {
+  font-style: italic;
+  display: block;
+  font-size: 13px;
+}
+ .member p {
+  padding-top: 10px;
+  font-size: 14px;
+  font-style: italic;
+  color: #aaaaaa;
+}
+ .member .social {
+  margin-top: 15px;
+}
+ .member .social a {
+  color: #919191;
+  transition: 0.3s;
+}
+ .member .social a:hover {
+  color: #16df7e;
+}
+ .member .social i {
+  font-size: 18px;
+  margin: 0 2px;
+}
+
