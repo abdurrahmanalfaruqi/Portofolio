@@ -990,7 +990,7 @@ section {
 /* award */
 .awards {
   padding: 80px 0;
-  background: url("../img/awards-bg.jpg") no-repeat;
+  background: url("img/background.jpeg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
