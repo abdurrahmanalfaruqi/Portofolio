@@ -176,9 +176,9 @@
   });
 
   /**
-   * Testimonials slider
+   * team slider
    */
-  new Swiper('.testimonials-slider', {
+  new Swiper('.awards-slider', {
     speed: 600,
     loop: true,
     autoplay: {
